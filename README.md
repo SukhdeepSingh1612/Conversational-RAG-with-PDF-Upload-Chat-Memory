@@ -35,7 +35,7 @@ pip install streamlit langchain chromadb langchain_groq langchain_huggingface Py
     ```
 4. Run the Streamlit app by using the command:
     ```
-    streamlit run app.py
+    streamlit run betterApp.py
     ```
 5. Open the app in your browser and upload PDFs, enter your Groq API key, and interact with the assistant.
 
