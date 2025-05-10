@@ -9,7 +9,7 @@ pymupdf
 wikipedia
 langchain-text-splitters
 langchain-openapi
-chromadb==0.3.21
+chromadb
 sentence_transformers
 langchain_huggingface
 faiss-cpu
@@ -21,4 +21,3 @@ fastapi[all]
 sse_starlette
 uvicorn
 langserve
-pysqlite3-binary==0.5.4
