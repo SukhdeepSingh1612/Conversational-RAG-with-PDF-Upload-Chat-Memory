@@ -21,3 +21,4 @@ fastapi[all]
 sse_starlette
 uvicorn
 langserve
+pysqlite3-binary
